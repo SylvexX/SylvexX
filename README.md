@@ -7,10 +7,10 @@
 <p align="center">
 - 🌱 I’m currently learning **C++**
 </p>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 - 📫 How to reach me **yjmelstak@gmail.com**
 </p>
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
