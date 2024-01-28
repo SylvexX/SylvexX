@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvexx" alt="sylvexx" /></a> </p>
 <p align="center">
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning C#
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-- 📫 How to reach me **yjmelstak@gmail.com**
+- 📫 How to reach me <a hfref="mailto: yjmelstak@gmail.com"> My e-mail :D</a>
 </p>
 <p align="center">
 </p>
