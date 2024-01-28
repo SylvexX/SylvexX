@@ -9,7 +9,7 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-- 📫 How to reach me <a hfref="mailto: yjmelstak@gmail.com"> My e-mail :D</a>
+- 📫 How to reach me <a href="mailto: yjmelstak@gmail.com"> My e-mail :D</a>
 </p>
 <p align="center">
 </p>
